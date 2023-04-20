@@ -1,5 +1,7 @@
 /* style sheet */
 body {
-    background-color: purple;
-    color: yellow;
+    background-color: rgb(232, 195, 222);
+    color: rgb(0,0,0);
+    font-family: 'Tangerine', serif;
+    font-size: 36px;
 }
